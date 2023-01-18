@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/Marchino5791/Frontend-Mentor-Notifications-page](https://github.com/Marchino5791/Frontend-Mentor-Notifications-page)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://marchino5791.github.io/Frontend-Mentor-Notifications-page/](https://marchino5791.github.io/Frontend-Mentor-Notifications-page/)
 
 ## My process
 
@@ -46,4 +46,4 @@ Users should be able to:
 ## Author
 
 - Frontend Mentor - [@marchino5791](https://www.frontendmentor.io/profile/marchino5791)
-- Linkedin - [@Marco Antonio Paolino](https://www.linkedin.com/in/marco-paolino/)
+- LinkedIn - [@Marco Antonio Paolino](https://www.linkedin.com/in/marco-paolino/)
