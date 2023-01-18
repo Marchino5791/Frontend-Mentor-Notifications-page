@@ -91,7 +91,7 @@ main {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin: var(--space-only-tb);
+    margin: 1rem 0 2rem;
 }
 
 .header__title {
