@@ -25,11 +25,11 @@ Users should be able to:
 
 ### Screenshot
 
-![Notifications page screenshot]()
+![Notifications page screenshot](https://github.com/Marchino5791/Frontend-Mentor-Notifications-page/blob/main/Screenshot%202023-01-18%2016.05.51.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://github.com/Marchino5791/Frontend-Mentor-Notifications-page](https://github.com/Marchino5791/Frontend-Mentor-Notifications-page)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
